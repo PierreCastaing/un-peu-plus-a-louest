@@ -2,4 +2,4 @@
 
 This website is my photographies repository. It was made in almost pure javascript (with a tiny bit of jQuery).
 
-<img src="vignette.jpg" alt="picture of website" style="length:600px;"/>
+<img src="vignette.jpg" alt="picture of website" style="lenght:600px;"/>
