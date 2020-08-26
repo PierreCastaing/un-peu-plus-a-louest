@@ -1,0 +1,10 @@
+{
+    "folderPath" : "photos/carousel/" ,
+    "pages" : [
+        {"name" : "Accueil", "subTitle" : "Retour à l'accueil", "picture" : "chili1.jpg", "path" : "photos/page1"},
+        {"name" : "Costa Rica", "subTitle" : "Janvier 2014", "picture" : "Costa Rica 984.JPG", "path" : "photos/page2"},
+        {"name" : "Grèce", "subTitle" : "Août 2015", "picture" : "Grèce one 040.jpg", "path" : "photos/page3"},
+        {"name" : "Pacifique", "subTitle" : "Hiver 2017", "picture" : "IMG_9893.JPG", "path" : "photos/page4"},
+        {"name" : "Patagonie", "subTitle" : "Hiver 2018", "picture" : "IMG_3048.JPG", "path" : "photos/page5"}
+    ] 
+}

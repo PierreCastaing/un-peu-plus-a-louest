@@ -1,0 +1,19 @@
+{
+    "projectName" : "Costa Rica",
+    "projectDescription" : "Janvier 2014",
+    "folderPath" : "photos/page2/" ,
+    "pictures": [
+        {"name": "Costa Rica 119.jpg", "legend":"Volcan Irazu, Costa Rica."},
+        {"name":"Costa Rica 174.jpg", "legend": "Volcan Irazu, Costa Rica.", "legendDetail":"Aux lignées condamnées à cent de solitude, il n'était pas donné sur terre de seconde chance."},
+        {"name":"Costa Rica 250.jpg", "legend": "Côté Atlantique, Costa Rica.", "legendDetail":"Une plantations de bananiers."},
+        {"name":"Costa Rica 266.jpg", "legend": "Tortuguero, Costa Rica.", "legendDetail":"Bouillant affluent de l'Amazon, le fleuve 'Soupopoaro' est l'orgueil hygrométrique de la Palombie... L'or bleu de l'enfer vert..."},
+        {"name":"Costa Rica 316.jpg", "legend": "Jungle, Costa Rica.", "legendDetail":"On arriverait au bout ensemble et alors on saurait ce qu'on était venus chercher dans l'aventure. La vie c'est ça, un bout de lumière qui finit dans la nuit."},
+        {"name":"Costa Rica 336.jpg", "legend": "Jungle, Costa Rica."},
+        {"name":"Costa Rica 351.JPG", "legend": "Jungle, Costa Rica."},
+        {"name":"Costa Rica 445.jpg", "legend": "Jungle, Costa Rica."},
+        {"name":"Costa Rica 608.jpg", "legend": "Bahia Drake, Costa Rica."},
+        {"name":"Costa Rica 639.jpg", "legend": "Jungle, Costa Rica.", "legendDetail":"Un serpent arboricole sur le sol."},
+        {"name":"Costa Rica 906-2.jpg", "legend": "Alentours de San José, Costa Rica.", "legenDetail":"A flanc de volcan, un champ de caféiers."},
+        {"name":"Costa Rica 984.JPG", "legend": "Alentours de San José, Costa Rica."}
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "projectName" : "Un peu plus à l'ouest",
+    "projectDescription" : "Ce site est une collection de photographies. Il me sert à les stocker, y accéder à distance et fait plaisir à mes parents, j'espère.",
+    "folderPath" : "photos/page1/" ,
+    "pictures": [
+        {"name": "chili1.jpg", "legend":"Parc de Pali Aike, Chili.", "legendDetail":"Le 'lieu désolé' pour les anciens amérindiens. Un champ volcanique vieux d'environ 10 000 ans."},
+        {"name":"lowestoft3.jpg", "legend": "<i>Port of Lowestoft</i>, Angleterre.", "legendDetail":"Port du comté du Suffolk, construit entre 1831 et 1937. Ancien port de pêche et de construction navale."},
+        {"name":"lowestoft1.jpg", "legend": "<i>Port of Lowestoft</i>, Angleterre."},
+        {"name":"lowestoft2.jpg", "legend": "<i>North Sea</i>, Angleterre."},
+        {"name":"SMU1.jpg", "legend": "Anvers, Belgique."},
+        {"name":"Re3.jpg", "legend": "Ile de Ré, France."},
+        {"name":"Re2.jpg", "legend": "Ile de Ré, France."},
+        {"name":"newYork3.jpg", "legend": "New York, Etats-Unis.", "legendDetail":"La mythique plage de Coney Island, dans la ville de New York."},
+        {"name":"newYork2.jpg", "legend": "New York, Etats-Unis."},
+        {"name":"newYork1.jpg", "legend": "New York, Etats-Unis."},
+        {"name":"canada2.jpg", "legend": "Rimouski, Canada.", "legendDetail":"Match de hockey sur glace."},
+        {"name":"canada1.jpg", "legend": "Parc de la Gaspésie, Canada."},
+        {"name":"costaRica1.jpg", "legend": "Alentours de San José, Costa Rica."},
+        {"name":"grece4.jpg", "legend": "Le Pirée, Grèce."},
+        {"name":"grece3.jpg", "legend": "Sifnos, Grèce."},
+        {"name":"grece2.jpg", "legend": "Méditerranée, Grèce."},
+        {"name":"grece1.jpg", "legend": "Ile, Grèce."}
+    ]
+}
